@@ -431,7 +431,6 @@ figure .trasera p {
         display: flex;
         justify-content: space-around;
         align-items: center;
-        padding: 2rem;
         margin-bottom:3rem ;
 		width: 99vw;
 }
@@ -451,8 +450,7 @@ figure .trasera p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 50vh;
-    margin-top: 5.5rem;
+    margin-top: 1rem;
 }
 form{
     width: 50vw;
